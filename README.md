@@ -6,9 +6,17 @@
 
 <head>
 	<meta charset="utf-8">
-
 	<title>Lars Peterson</title>
 	<base href="/">
+	
+	<meta name="description" content="A wonderful description...">
+	<meta name="copyright" content="Lars Peterson">
+	<meta name="robots" content="index,follow">
+	<meta name="reply-to" content="larspeterson@live.com">
+	<meta name="owner" content="Lars Peterson">
+	<meta name="author" content="Lars Peterson">
+	<meta name="designer" content="Lars Peterson">
+	<meta name="url" content="https://www.larspeterson.me">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
